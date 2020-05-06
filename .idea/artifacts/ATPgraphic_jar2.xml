@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="ATPgraphic:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/ATPgraphic_jar2</output-path>
+    <root id="root">
+      <element id="archive" name="ATPgraphic.jar">
+        <element id="module-output" name="ATPgraphic" />
+      </element>
+      <element id="library" level="project" name="ATPProjectJAR" />
+    </root>
+  </artifact>
+</component>

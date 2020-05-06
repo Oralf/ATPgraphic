@@ -1,0 +1,363 @@
+2019.06.13 16:20:19.164 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2019.06.13 16:20:19.166 INFO  Server.Server - Server's Strategy: ServerStrategyGenerateMaze
+2019.06.13 16:20:19.166 INFO  Server.Server - Server is waiting for clients...
+2019.06.13 16:20:19.166 INFO  Server.Server - Client excepted: Socket[addr=/132.72.66.87,port=2088,localport=5400]
+2019.06.13 16:20:19.167 INFO  Server.Server - Handling client with socket: Socket[addr=/132.72.66.87,port=2088,localport=5400]
+2019.06.13 16:20:19.217 INFO  Server.Server - Finished handle client: Socket[addr=/132.72.66.87,port=2088,localport=5400]
+2019.06.13 16:20:19.217 INFO  Server.Server - Stopping server..
+2019.06.13 16:20:20.168 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.13 16:20:52.841 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5401]!
+2019.06.13 16:20:52.841 INFO  Server.Server - Server's Strategy: ServerStrategySolveSearchProblem
+2019.06.13 16:20:52.841 INFO  Server.Server - Server is waiting for clients...
+2019.06.13 16:20:52.841 INFO  Server.Server - Client excepted: Socket[addr=/132.72.66.87,port=2091,localport=5401]
+2019.06.13 16:20:52.842 INFO  Server.Server - Handling client with socket: Socket[addr=/132.72.66.87,port=2091,localport=5401]
+2019.06.13 16:20:52.945 INFO  Server.Server - Finished handle client: Socket[addr=/132.72.66.87,port=2091,localport=5401]
+2019.06.13 16:20:52.945 INFO  Server.Server - Stopping server..
+2019.06.13 16:20:53.841 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.13 16:27:17.869 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5401]!
+2019.06.13 16:27:17.870 INFO  Server.Server - Server's Strategy: ServerStrategySolveSearchProblem
+2019.06.13 16:27:17.870 INFO  Server.Server - Server is waiting for clients...
+2019.06.13 16:27:17.870 INFO  Server.Server - Client excepted: Socket[addr=/132.72.66.87,port=2127,localport=5401]
+2019.06.13 16:27:17.871 INFO  Server.Server - Handling client with socket: Socket[addr=/132.72.66.87,port=2127,localport=5401]
+2019.06.13 16:27:17.959 INFO  Server.Server - Finished handle client: Socket[addr=/132.72.66.87,port=2127,localport=5401]
+2019.06.13 16:27:17.966 INFO  Server.Server - Stopping server..
+2019.06.13 16:27:18.870 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.13 16:28:53.816 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2019.06.13 16:28:53.817 INFO  Server.Server - Server's Strategy: ServerStrategyGenerateMaze
+2019.06.13 16:28:53.818 INFO  Server.Server - Server is waiting for clients...
+2019.06.13 16:28:54.314 INFO  Server.Server - Client excepted: Socket[addr=/132.72.66.87,port=2138,localport=5400]
+2019.06.13 16:28:54.316 INFO  Server.Server - Handling client with socket: Socket[addr=/132.72.66.87,port=2138,localport=5400]
+2019.06.13 16:28:54.331 INFO  Server.Server - Stopping server..
+2019.06.13 16:28:54.332 INFO  Server.Server - Finished handle client: Socket[addr=/132.72.66.87,port=2138,localport=5400]
+2019.06.13 16:28:55.315 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.13 16:28:59.442 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2019.06.13 16:28:59.443 INFO  Server.Server - Server's Strategy: ServerStrategyGenerateMaze
+2019.06.13 16:28:59.444 INFO  Server.Server - Server is waiting for clients...
+2019.06.13 16:28:59.444 INFO  Server.Server - Client excepted: Socket[addr=/132.72.66.87,port=2139,localport=5400]
+2019.06.13 16:28:59.446 INFO  Server.Server - Handling client with socket: Socket[addr=/132.72.66.87,port=2139,localport=5400]
+2019.06.13 16:28:59.457 INFO  Server.Server - Finished handle client: Socket[addr=/132.72.66.87,port=2139,localport=5400]
+2019.06.13 16:28:59.458 INFO  Server.Server - Stopping server..
+2019.06.13 16:29:00.446 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.13 16:43:29.905 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2019.06.13 16:43:29.906 INFO  Server.Server - Server's Strategy: ServerStrategyGenerateMaze
+2019.06.13 16:43:29.907 INFO  Server.Server - Server is waiting for clients...
+2019.06.13 16:43:29.917 INFO  Server.Server - Client excepted: Socket[addr=/132.72.66.87,port=2234,localport=5400]
+2019.06.13 16:43:29.918 INFO  Server.Server - Handling client with socket: Socket[addr=/132.72.66.87,port=2234,localport=5400]
+2019.06.13 16:43:29.922 INFO  Server.ServerStrategyGenerateMaze - Generating maze with size:15,15
+2019.06.13 16:43:29.972 INFO  Server.Server - Stopping server..
+2019.06.13 16:43:29.972 INFO  Server.Server - Finished handle client: Socket[addr=/132.72.66.87,port=2234,localport=5400]
+2019.06.13 16:43:30.918 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.13 16:43:35.635 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5401]!
+2019.06.13 16:43:35.635 INFO  Server.Server - Server's Strategy: ServerStrategySolveSearchProblem
+2019.06.13 16:43:35.635 INFO  Server.Server - Server is waiting for clients...
+2019.06.13 16:43:35.636 INFO  Server.Server - Client excepted: Socket[addr=/132.72.66.87,port=2236,localport=5401]
+2019.06.13 16:43:35.637 INFO  Server.Server - Handling client with socket: Socket[addr=/132.72.66.87,port=2236,localport=5401]
+2019.06.13 16:43:35.653 INFO  Server.ServerStrategySolveSearchProblem - Solution is of size: 44
+2019.06.13 16:43:35.653 INFO  Server.ServerStrategySolveSearchProblem - Solving maze with algorithm: Best first search
+2019.06.13 16:43:35.663 INFO  Server.Server - Finished handle client: Socket[addr=/132.72.66.87,port=2236,localport=5401]
+2019.06.13 16:43:35.664 INFO  Server.Server - Stopping server..
+2019.06.13 16:43:36.637 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.13 16:44:44.621 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2019.06.13 16:44:44.623 INFO  Server.Server - Server's Strategy: ServerStrategyGenerateMaze
+2019.06.13 16:44:44.624 INFO  Server.Server - Server is waiting for clients...
+2019.06.13 16:44:45.118 INFO  Server.Server - Client excepted: Socket[addr=/132.72.66.87,port=2246,localport=5400]
+2019.06.13 16:44:45.120 INFO  Server.Server - Handling client with socket: Socket[addr=/132.72.66.87,port=2246,localport=5400]
+2019.06.13 16:44:45.122 INFO  Server.ServerStrategyGenerateMaze - Generating maze with size:15,15
+2019.06.13 16:44:45.135 INFO  Server.Server - Finished handle client: Socket[addr=/132.72.66.87,port=2246,localport=5400]
+2019.06.13 16:44:45.135 INFO  Server.Server - Stopping server..
+2019.06.13 16:44:46.119 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.13 16:47:46.364 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2019.06.13 16:47:46.367 INFO  Server.Server - Server's Strategy: ServerStrategyGenerateMaze
+2019.06.13 16:47:46.367 INFO  Server.Server - Server is waiting for clients...
+2019.06.13 16:47:46.367 INFO  Server.Server - Client excepted: Socket[addr=/132.72.66.87,port=2272,localport=5400]
+2019.06.13 16:47:46.368 INFO  Server.Server - Handling client with socket: Socket[addr=/132.72.66.87,port=2272,localport=5400]
+2019.06.13 16:47:46.370 INFO  Server.ServerStrategyGenerateMaze - Generating maze with size:15,15
+2019.06.13 16:47:46.425 INFO  Server.Server - Finished handle client: Socket[addr=/132.72.66.87,port=2272,localport=5400]
+2019.06.13 16:47:46.425 INFO  Server.Server - Stopping server..
+2019.06.13 16:47:47.369 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.13 16:48:06.421 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5401]!
+2019.06.13 16:48:06.421 INFO  Server.Server - Server's Strategy: ServerStrategySolveSearchProblem
+2019.06.13 16:48:06.421 INFO  Server.Server - Server is waiting for clients...
+2019.06.13 16:48:06.422 INFO  Server.Server - Client excepted: Socket[addr=/132.72.66.87,port=2273,localport=5401]
+2019.06.13 16:48:06.422 INFO  Server.Server - Handling client with socket: Socket[addr=/132.72.66.87,port=2273,localport=5401]
+2019.06.13 16:48:06.440 INFO  Server.ServerStrategySolveSearchProblem - Solution is of size: 13
+2019.06.13 16:48:06.440 INFO  Server.ServerStrategySolveSearchProblem - Solving maze with algorithm: Best first search
+2019.06.13 16:48:06.447 INFO  Server.Server - Finished handle client: Socket[addr=/132.72.66.87,port=2273,localport=5401]
+2019.06.13 16:48:06.447 INFO  Server.Server - Stopping server..
+2019.06.13 16:48:07.423 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.13 16:49:49.325 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2019.06.13 16:49:49.327 INFO  Server.Server - Server's Strategy: ServerStrategyGenerateMaze
+2019.06.13 16:49:49.327 INFO  Server.Server - Server is waiting for clients...
+2019.06.13 16:49:49.328 INFO  Server.Server - Client excepted: Socket[addr=/132.72.66.87,port=2288,localport=5400]
+2019.06.13 16:49:49.329 INFO  Server.Server - Handling client with socket: Socket[addr=/132.72.66.87,port=2288,localport=5400]
+2019.06.13 16:49:49.331 INFO  Server.ServerStrategyGenerateMaze - Generating maze with size:15,15
+2019.06.13 16:49:49.381 INFO  Server.Server - Stopping server..
+2019.06.13 16:49:49.382 INFO  Server.Server - Finished handle client: Socket[addr=/132.72.66.87,port=2288,localport=5400]
+2019.06.13 16:49:50.330 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.13 16:49:51.897 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5401]!
+2019.06.13 16:49:51.898 INFO  Server.Server - Server's Strategy: ServerStrategySolveSearchProblem
+2019.06.13 16:49:51.898 INFO  Server.Server - Server is waiting for clients...
+2019.06.13 16:49:51.898 INFO  Server.Server - Client excepted: Socket[addr=/132.72.66.87,port=2289,localport=5401]
+2019.06.13 16:49:51.899 INFO  Server.Server - Handling client with socket: Socket[addr=/132.72.66.87,port=2289,localport=5401]
+2019.06.13 16:49:51.918 INFO  Server.ServerStrategySolveSearchProblem - Solution is of size: 55
+2019.06.13 16:49:51.918 INFO  Server.ServerStrategySolveSearchProblem - Solving maze with algorithm: Best first search
+2019.06.13 16:49:51.931 INFO  Server.Server - Finished handle client: Socket[addr=/132.72.66.87,port=2289,localport=5401]
+2019.06.13 16:49:51.931 INFO  Server.Server - Stopping server..
+2019.06.13 16:49:52.899 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.13 16:49:58.265 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5401]!
+2019.06.13 16:49:58.266 INFO  Server.Server - Server's Strategy: ServerStrategySolveSearchProblem
+2019.06.13 16:49:58.266 INFO  Server.Server - Server is waiting for clients...
+2019.06.13 16:49:58.766 INFO  Server.Server - Client excepted: Socket[addr=/132.72.66.87,port=2291,localport=5401]
+2019.06.13 16:49:58.768 INFO  Server.Server - Handling client with socket: Socket[addr=/132.72.66.87,port=2291,localport=5401]
+2019.06.13 16:49:58.811 INFO  Server.ServerStrategySolveSearchProblem - Solution is of size: 46
+2019.06.13 16:49:58.811 INFO  Server.ServerStrategySolveSearchProblem - Solving maze with algorithm: Best first search
+2019.06.13 16:49:58.827 INFO  Server.Server - Stopping server..
+2019.06.13 16:49:58.827 INFO  Server.Server - Finished handle client: Socket[addr=/132.72.66.87,port=2291,localport=5401]
+2019.06.13 16:49:59.768 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 10:02:33.076 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2019.06.16 10:02:33.080 INFO  Server.Server - Server's Strategy: ServerStrategyGenerateMaze
+2019.06.16 10:02:33.080 INFO  Server.Server - Server is waiting for clients...
+2019.06.16 10:02:33.081 INFO  Server.Server - Client excepted: Socket[addr=/192.168.1.9,port=50743,localport=5400]
+2019.06.16 10:02:33.082 INFO  Server.Server - Handling client with socket: Socket[addr=/192.168.1.9,port=50743,localport=5400]
+2019.06.16 10:02:33.087 INFO  Server.ServerStrategyGenerateMaze - Generating maze with size:15,15
+2019.06.16 10:02:33.460 INFO  Server.Server - Finished handle client: Socket[addr=/192.168.1.9,port=50743,localport=5400]
+2019.06.16 10:02:33.460 INFO  Server.Server - Stopping server..
+2019.06.16 10:02:34.082 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 10:02:54.693 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5401]!
+2019.06.16 10:02:54.693 INFO  Server.Server - Server's Strategy: ServerStrategySolveSearchProblem
+2019.06.16 10:02:54.693 INFO  Server.Server - Server is waiting for clients...
+2019.06.16 10:02:54.694 INFO  Server.Server - Client excepted: Socket[addr=/192.168.1.9,port=50746,localport=5401]
+2019.06.16 10:02:54.695 INFO  Server.Server - Handling client with socket: Socket[addr=/192.168.1.9,port=50746,localport=5401]
+2019.06.16 10:02:54.773 INFO  Server.ServerStrategySolveSearchProblem - Solution is of size: 50
+2019.06.16 10:02:54.774 INFO  Server.ServerStrategySolveSearchProblem - Solving maze with algorithm: Best first search
+2019.06.16 10:02:54.794 INFO  Server.Server - Stopping server..
+2019.06.16 10:02:54.795 INFO  Server.Server - Finished handle client: Socket[addr=/192.168.1.9,port=50746,localport=5401]
+2019.06.16 10:02:55.696 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 10:05:58.980 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2019.06.16 10:05:58.984 INFO  Server.Server - Server's Strategy: ServerStrategyGenerateMaze
+2019.06.16 10:05:58.984 INFO  Server.Server - Server is waiting for clients...
+2019.06.16 10:05:58.985 INFO  Server.Server - Client excepted: Socket[addr=/192.168.1.9,port=50804,localport=5400]
+2019.06.16 10:05:58.986 INFO  Server.Server - Handling client with socket: Socket[addr=/192.168.1.9,port=50804,localport=5400]
+2019.06.16 10:05:58.990 INFO  Server.ServerStrategyGenerateMaze - Generating maze with size:15,20
+2019.06.16 10:05:59.253 INFO  Server.Server - Finished handle client: Socket[addr=/192.168.1.9,port=50804,localport=5400]
+2019.06.16 10:05:59.253 INFO  Server.Server - Stopping server..
+2019.06.16 10:05:59.987 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 10:06:24.510 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5401]!
+2019.06.16 10:06:24.511 INFO  Server.Server - Server's Strategy: ServerStrategySolveSearchProblem
+2019.06.16 10:06:24.511 INFO  Server.Server - Server is waiting for clients...
+2019.06.16 10:06:24.512 INFO  Server.Server - Client excepted: Socket[addr=/192.168.1.9,port=50807,localport=5401]
+2019.06.16 10:06:24.513 INFO  Server.Server - Handling client with socket: Socket[addr=/192.168.1.9,port=50807,localport=5401]
+2019.06.16 10:06:24.543 INFO  Server.ServerStrategySolveSearchProblem - Solution is of size: 63
+2019.06.16 10:06:24.544 INFO  Server.ServerStrategySolveSearchProblem - Solving maze with algorithm: Best first search
+2019.06.16 10:06:24.569 INFO  Server.Server - Stopping server..
+2019.06.16 10:06:24.569 INFO  Server.Server - Finished handle client: Socket[addr=/192.168.1.9,port=50807,localport=5401]
+2019.06.16 10:06:25.513 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 10:07:16.176 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5401]!
+2019.06.16 10:07:16.176 INFO  Server.Server - Server's Strategy: ServerStrategySolveSearchProblem
+2019.06.16 10:07:16.177 INFO  Server.Server - Server is waiting for clients...
+2019.06.16 10:07:16.177 INFO  Server.Server - Client excepted: Socket[addr=/192.168.1.9,port=50818,localport=5401]
+2019.06.16 10:07:16.178 INFO  Server.Server - Handling client with socket: Socket[addr=/192.168.1.9,port=50818,localport=5401]
+2019.06.16 10:07:16.198 INFO  Server.ServerStrategySolveSearchProblem - Solution is of size: 48
+2019.06.16 10:07:16.199 INFO  Server.ServerStrategySolveSearchProblem - Solving maze with algorithm: Best first search
+2019.06.16 10:07:16.215 INFO  Server.Server - Finished handle client: Socket[addr=/192.168.1.9,port=50818,localport=5401]
+2019.06.16 10:07:16.215 INFO  Server.Server - Stopping server..
+2019.06.16 10:07:17.178 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 10:07:36.673 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2019.06.16 10:07:36.673 INFO  Server.Server - Server's Strategy: ServerStrategyGenerateMaze
+2019.06.16 10:07:36.674 INFO  Server.Server - Server is waiting for clients...
+2019.06.16 10:07:36.674 INFO  Server.Server - Client excepted: Socket[addr=/192.168.1.9,port=50821,localport=5400]
+2019.06.16 10:07:36.675 INFO  Server.Server - Handling client with socket: Socket[addr=/192.168.1.9,port=50821,localport=5400]
+2019.06.16 10:07:36.677 INFO  Server.ServerStrategyGenerateMaze - Generating maze with size:15,20
+2019.06.16 10:07:36.681 INFO  Server.Server - Stopping server..
+2019.06.16 10:07:36.681 INFO  Server.Server - Finished handle client: Socket[addr=/192.168.1.9,port=50821,localport=5400]
+2019.06.16 10:07:37.676 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 10:07:45.396 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5401]!
+2019.06.16 10:07:45.397 INFO  Server.Server - Server's Strategy: ServerStrategySolveSearchProblem
+2019.06.16 10:07:45.397 INFO  Server.Server - Server is waiting for clients...
+2019.06.16 10:07:45.397 INFO  Server.Server - Client excepted: Socket[addr=/192.168.1.9,port=50823,localport=5401]
+2019.06.16 10:07:45.398 INFO  Server.Server - Handling client with socket: Socket[addr=/192.168.1.9,port=50823,localport=5401]
+2019.06.16 10:07:45.424 INFO  Server.ServerStrategySolveSearchProblem - Solution is of size: 20
+2019.06.16 10:07:45.425 INFO  Server.ServerStrategySolveSearchProblem - Solving maze with algorithm: BFS
+2019.06.16 10:07:45.438 INFO  Server.Server - Stopping server..
+2019.06.16 10:07:45.438 INFO  Server.Server - Finished handle client: Socket[addr=/192.168.1.9,port=50823,localport=5401]
+2019.06.16 10:07:46.398 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 10:08:05.288 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2019.06.16 10:08:05.288 INFO  Server.Server - Server's Strategy: ServerStrategyGenerateMaze
+2019.06.16 10:08:05.288 INFO  Server.Server - Server is waiting for clients...
+2019.06.16 10:08:05.289 INFO  Server.Server - Client excepted: Socket[addr=/192.168.1.9,port=50826,localport=5400]
+2019.06.16 10:08:05.290 INFO  Server.Server - Handling client with socket: Socket[addr=/192.168.1.9,port=50826,localport=5400]
+2019.06.16 10:08:05.291 INFO  Server.ServerStrategyGenerateMaze - Generating maze with size:15,20
+2019.06.16 10:08:05.299 INFO  Server.Server - Finished handle client: Socket[addr=/192.168.1.9,port=50826,localport=5400]
+2019.06.16 10:08:05.299 INFO  Server.Server - Stopping server..
+2019.06.16 10:08:06.291 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 10:08:17.943 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5401]!
+2019.06.16 10:08:17.944 INFO  Server.Server - Server's Strategy: ServerStrategySolveSearchProblem
+2019.06.16 10:08:17.946 INFO  Server.Server - Server is waiting for clients...
+2019.06.16 10:08:17.946 INFO  Server.Server - Client excepted: Socket[addr=/192.168.1.9,port=50830,localport=5401]
+2019.06.16 10:08:17.948 INFO  Server.Server - Handling client with socket: Socket[addr=/192.168.1.9,port=50830,localport=5401]
+2019.06.16 10:08:17.972 INFO  Server.ServerStrategySolveSearchProblem - Solution is of size: 82
+2019.06.16 10:08:17.973 INFO  Server.ServerStrategySolveSearchProblem - Solving maze with algorithm: Best first search
+2019.06.16 10:08:17.995 INFO  Server.Server - Stopping server..
+2019.06.16 10:08:17.995 INFO  Server.Server - Finished handle client: Socket[addr=/192.168.1.9,port=50830,localport=5401]
+2019.06.16 10:08:18.948 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 10:12:57.143 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2019.06.16 10:12:57.146 INFO  Server.Server - Server's Strategy: ServerStrategyGenerateMaze
+2019.06.16 10:12:57.146 INFO  Server.Server - Server is waiting for clients...
+2019.06.16 10:12:57.147 INFO  Server.Server - Client excepted: Socket[addr=/192.168.1.9,port=50914,localport=5400]
+2019.06.16 10:12:57.148 INFO  Server.Server - Handling client with socket: Socket[addr=/192.168.1.9,port=50914,localport=5400]
+2019.06.16 10:12:57.152 INFO  Server.ServerStrategyGenerateMaze - Generating maze with size:15,15
+2019.06.16 10:12:57.414 INFO  Server.Server - Finished handle client: Socket[addr=/192.168.1.9,port=50914,localport=5400]
+2019.06.16 10:12:57.415 INFO  Server.Server - Stopping server..
+2019.06.16 10:12:58.148 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 10:13:22.889 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5401]!
+2019.06.16 10:13:22.889 INFO  Server.Server - Server's Strategy: ServerStrategySolveSearchProblem
+2019.06.16 10:13:22.889 INFO  Server.Server - Server is waiting for clients...
+2019.06.16 10:13:22.890 INFO  Server.Server - Client excepted: Socket[addr=/192.168.1.9,port=50918,localport=5401]
+2019.06.16 10:13:22.891 INFO  Server.Server - Handling client with socket: Socket[addr=/192.168.1.9,port=50918,localport=5401]
+2019.06.16 10:13:22.973 INFO  Server.ServerStrategySolveSearchProblem - Solution is of size: 30
+2019.06.16 10:13:22.974 INFO  Server.ServerStrategySolveSearchProblem - Solving maze with algorithm: Best first search
+2019.06.16 10:13:23.017 INFO  Server.Server - Stopping server..
+2019.06.16 10:13:23.017 INFO  Server.Server - Finished handle client: Socket[addr=/192.168.1.9,port=50918,localport=5401]
+2019.06.16 10:13:23.891 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 12:30:04.284 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2019.06.16 12:30:04.288 INFO  Server.Server - Server's Strategy: ServerStrategyGenerateMaze
+2019.06.16 12:30:04.288 INFO  Server.Server - Server is waiting for clients...
+2019.06.16 12:30:04.289 INFO  Server.Server - Client excepted: Socket[addr=/192.168.1.9,port=54541,localport=5400]
+2019.06.16 12:30:04.291 INFO  Server.Server - Handling client with socket: Socket[addr=/192.168.1.9,port=54541,localport=5400]
+2019.06.16 12:30:04.297 INFO  Server.ServerStrategyGenerateMaze - Generating maze with size:15,15
+2019.06.16 12:30:04.564 INFO  Server.Server - Stopping server..
+2019.06.16 12:30:04.567 INFO  Server.Server - Finished handle client: Socket[addr=/192.168.1.9,port=54541,localport=5400]
+2019.06.16 12:30:05.291 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 12:30:10.602 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5401]!
+2019.06.16 12:30:10.603 INFO  Server.Server - Server's Strategy: ServerStrategySolveSearchProblem
+2019.06.16 12:30:10.604 INFO  Server.Server - Server is waiting for clients...
+2019.06.16 12:30:10.607 INFO  Server.Server - Client excepted: Socket[addr=/192.168.1.9,port=54542,localport=5401]
+2019.06.16 12:30:10.611 INFO  Server.Server - Handling client with socket: Socket[addr=/192.168.1.9,port=54542,localport=5401]
+2019.06.16 12:30:10.683 INFO  Server.ServerStrategySolveSearchProblem - Solution is of size: 60
+2019.06.16 12:30:10.683 INFO  Server.ServerStrategySolveSearchProblem - Solving maze with algorithm: Best first search
+2019.06.16 12:30:10.709 INFO  Server.Server - Stopping server..
+2019.06.16 12:30:10.709 INFO  Server.Server - Finished handle client: Socket[addr=/192.168.1.9,port=54542,localport=5401]
+2019.06.16 12:30:11.609 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 12:43:35.750 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2019.06.16 12:43:35.754 INFO  Server.Server - Server's Strategy: ServerStrategyGenerateMaze
+2019.06.16 12:43:35.755 INFO  Server.Server - Server is waiting for clients...
+2019.06.16 12:43:35.755 INFO  Server.Server - Client excepted: Socket[addr=/192.168.1.9,port=54778,localport=5400]
+2019.06.16 12:43:35.757 INFO  Server.Server - Handling client with socket: Socket[addr=/192.168.1.9,port=54778,localport=5400]
+2019.06.16 12:43:35.763 INFO  Server.ServerStrategyGenerateMaze - Generating maze with size:15,15
+2019.06.16 12:43:36.023 INFO  Server.Server - Finished handle client: Socket[addr=/192.168.1.9,port=54778,localport=5400]
+2019.06.16 12:43:36.023 INFO  Server.Server - Stopping server..
+2019.06.16 12:43:36.757 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 21:50:39.618 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2019.06.16 21:50:39.629 INFO  Server.Server - Server's Strategy: ServerStrategyGenerateMaze
+2019.06.16 21:50:39.630 INFO  Server.Server - Server is waiting for clients...
+2019.06.16 21:50:39.631 INFO  Server.Server - Client excepted: Socket[addr=/192.168.1.9,port=61992,localport=5400]
+2019.06.16 21:50:39.635 INFO  Server.Server - Handling client with socket: Socket[addr=/192.168.1.9,port=61992,localport=5400]
+2019.06.16 21:50:39.653 INFO  Server.ServerStrategyGenerateMaze - Generating maze with size:15,15
+2019.06.16 21:50:40.159 INFO  Server.Server - Finished handle client: Socket[addr=/192.168.1.9,port=61992,localport=5400]
+2019.06.16 21:50:40.159 INFO  Server.Server - Stopping server..
+2019.06.16 21:50:40.634 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 21:50:44.298 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5401]!
+2019.06.16 21:50:44.299 INFO  Server.Server - Server's Strategy: ServerStrategySolveSearchProblem
+2019.06.16 21:50:44.299 INFO  Server.Server - Server is waiting for clients...
+2019.06.16 21:50:44.302 INFO  Server.Server - Client excepted: Socket[addr=/192.168.1.9,port=61993,localport=5401]
+2019.06.16 21:50:44.302 INFO  Server.Server - Handling client with socket: Socket[addr=/192.168.1.9,port=61993,localport=5401]
+2019.06.16 21:50:44.355 INFO  Server.ServerStrategySolveSearchProblem - Solution is of size: 40
+2019.06.16 21:50:44.355 INFO  Server.ServerStrategySolveSearchProblem - Solving maze with algorithm: Best first search
+2019.06.16 21:50:44.371 INFO  Server.Server - Stopping server..
+2019.06.16 21:50:44.371 INFO  Server.Server - Finished handle client: Socket[addr=/192.168.1.9,port=61993,localport=5401]
+2019.06.16 21:50:45.303 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.16 21:50:57.784 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5401]!
+2019.06.16 21:50:57.786 INFO  Server.Server - Server's Strategy: ServerStrategySolveSearchProblem
+2019.06.16 21:50:57.787 INFO  Server.Server - Server is waiting for clients...
+2019.06.16 21:50:57.788 INFO  Server.Server - Client excepted: Socket[addr=/192.168.1.9,port=61996,localport=5401]
+2019.06.16 21:50:57.790 INFO  Server.Server - Handling client with socket: Socket[addr=/192.168.1.9,port=61996,localport=5401]
+2019.06.16 21:50:57.818 INFO  Server.ServerStrategySolveSearchProblem - Solution is of size: 46
+2019.06.16 21:50:57.819 INFO  Server.ServerStrategySolveSearchProblem - Solving maze with algorithm: Best first search
+2019.06.16 21:50:57.837 INFO  Server.Server - Finished handle client: Socket[addr=/192.168.1.9,port=61996,localport=5401]
+2019.06.16 21:50:57.837 INFO  Server.Server - Stopping server..
+2019.06.16 21:50:58.790 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.18 17:06:05.052 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2019.06.18 17:06:05.058 INFO  Server.Server - Server's Strategy: ServerStrategyGenerateMaze
+2019.06.18 17:06:05.059 INFO  Server.Server - Server is waiting for clients...
+2019.06.18 17:06:05.059 INFO  Server.Server - Client excepted: Socket[addr=/132.73.195.210,port=54820,localport=5400]
+2019.06.18 17:06:05.061 INFO  Server.Server - Handling client with socket: Socket[addr=/132.73.195.210,port=54820,localport=5400]
+2019.06.18 17:06:05.069 INFO  Server.ServerStrategyGenerateMaze - Generating maze with size:15,20
+2019.06.18 17:06:05.367 INFO  Server.Server - Finished handle client: Socket[addr=/132.73.195.210,port=54820,localport=5400]
+2019.06.18 17:06:05.367 INFO  Server.Server - Stopping server..
+2019.06.18 17:06:06.060 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.18 17:06:18.563 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5401]!
+2019.06.18 17:06:18.564 INFO  Server.Server - Server's Strategy: ServerStrategySolveSearchProblem
+2019.06.18 17:06:18.564 INFO  Server.Server - Server is waiting for clients...
+2019.06.18 17:06:18.569 INFO  Server.Server - Client excepted: Socket[addr=/132.73.195.210,port=54829,localport=5401]
+2019.06.18 17:06:18.570 INFO  Server.Server - Handling client with socket: Socket[addr=/132.73.195.210,port=54829,localport=5401]
+2019.06.18 17:06:18.581 INFO  Server.ServerStrategySolveSearchProblem - Solution is of size: 71
+2019.06.18 17:06:18.582 INFO  Server.ServerStrategySolveSearchProblem - Solving maze with algorithm: Best first search
+2019.06.18 17:06:18.613 INFO  Server.Server - Stopping server..
+2019.06.18 17:06:18.613 INFO  Server.Server - Finished handle client: Socket[addr=/132.73.195.210,port=54829,localport=5401]
+2019.06.18 17:06:19.571 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.18 17:06:33.998 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2019.06.18 17:06:33.998 INFO  Server.Server - Server's Strategy: ServerStrategyGenerateMaze
+2019.06.18 17:06:33.999 INFO  Server.Server - Server is waiting for clients...
+2019.06.18 17:06:34.500 INFO  Server.Server - Client excepted: Socket[addr=/132.73.195.210,port=54839,localport=5400]
+2019.06.18 17:06:34.501 INFO  Server.Server - Handling client with socket: Socket[addr=/132.73.195.210,port=54839,localport=5400]
+2019.06.18 17:06:34.502 INFO  Server.ServerStrategyGenerateMaze - Generating maze with size:10,10
+2019.06.18 17:06:34.505 INFO  Server.Server - Stopping server..
+2019.06.18 17:06:34.505 INFO  Server.Server - Finished handle client: Socket[addr=/132.73.195.210,port=54839,localport=5400]
+2019.06.18 17:06:35.501 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.18 17:12:05.168 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2019.06.18 17:12:05.172 INFO  Server.Server - Server's Strategy: ServerStrategyGenerateMaze
+2019.06.18 17:12:05.173 INFO  Server.Server - Server is waiting for clients...
+2019.06.18 17:12:05.173 INFO  Server.Server - Client excepted: Socket[addr=/132.73.195.210,port=54956,localport=5400]
+2019.06.18 17:12:05.175 INFO  Server.Server - Handling client with socket: Socket[addr=/132.73.195.210,port=54956,localport=5400]
+2019.06.18 17:12:05.180 INFO  Server.ServerStrategyGenerateMaze - Generating maze with size:10,10
+2019.06.18 17:12:05.445 INFO  Server.Server - Finished handle client: Socket[addr=/132.73.195.210,port=54956,localport=5400]
+2019.06.18 17:12:05.446 INFO  Server.Server - Stopping server..
+2019.06.18 17:12:06.175 DEBUG Server.Server - Socket Timeout - No clients pending!
+2019.06.18 17:13:04.009 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5401]!
+2019.06.18 17:13:04.010 INFO  Server.Server - Server's Strategy: ServerStrategySolveSearchProblem
+2019.06.18 17:13:04.011 INFO  Server.Server - Server is waiting for clients...
+2019.06.18 17:13:04.013 INFO  Server.Server - Client excepted: Socket[addr=/132.73.195.210,port=54965,localport=5401]
+2019.06.18 17:13:04.015 INFO  Server.Server - Handling client with socket: Socket[addr=/132.73.195.210,port=54965,localport=5401]
+2019.06.18 17:13:04.036 INFO  Server.ServerStrategySolveSearchProblem - Solution is of size: 25
+2019.06.18 17:13:04.037 INFO  Server.ServerStrategySolveSearchProblem - Solving maze with algorithm: Best first search
+2019.06.18 17:13:04.057 INFO  Server.Server - Stopping server..
+2019.06.18 17:13:04.057 INFO  Server.Server - Finished handle client: Socket[addr=/132.73.195.210,port=54965,localport=5401]
+2019.06.18 17:13:05.014 DEBUG Server.Server - Socket Timeout - No clients pending!
+2020.02.25 15:58:09.581 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2020.02.25 15:58:09.589 INFO  Server.Server - Server's Strategy: ServerStrategyGenerateMaze
+2020.02.25 15:58:09.589 INFO  Server.Server - Server is waiting for clients...
+2020.02.25 15:58:09.590 INFO  Server.Server - Client excepted: Socket[addr=/10.100.102.4,port=62855,localport=5400]
+2020.02.25 15:58:09.592 INFO  Server.Server - Handling client with socket: Socket[addr=/10.100.102.4,port=62855,localport=5400]
+2020.02.25 15:58:09.601 INFO  Server.ServerStrategyGenerateMaze - Generating maze with size:15,15
+2020.02.25 15:58:10.462 INFO  Server.Server - Finished handle client: Socket[addr=/10.100.102.4,port=62855,localport=5400]
+2020.02.25 15:58:10.462 INFO  Server.Server - Stopping server..
+2020.02.25 15:58:10.597 DEBUG Server.Server - Socket Timeout - No clients pending!
+2020.02.25 15:58:21.566 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5401]!
+2020.02.25 15:58:21.566 INFO  Server.Server - Server's Strategy: ServerStrategySolveSearchProblem
+2020.02.25 15:58:21.567 INFO  Server.Server - Server is waiting for clients...
+2020.02.25 15:58:21.567 INFO  Server.Server - Client excepted: Socket[addr=/10.100.102.4,port=62863,localport=5401]
+2020.02.25 15:58:21.568 INFO  Server.Server - Handling client with socket: Socket[addr=/10.100.102.4,port=62863,localport=5401]
+2020.02.25 15:58:21.630 INFO  Server.ServerStrategySolveSearchProblem - Solution is of size: 37
+2020.02.25 15:58:21.630 INFO  Server.ServerStrategySolveSearchProblem - Solving maze with algorithm: Best first search
+2020.02.25 15:58:21.660 INFO  Server.Server - Stopping server..
+2020.02.25 15:58:21.660 INFO  Server.Server - Finished handle client: Socket[addr=/10.100.102.4,port=62863,localport=5401]
+2020.02.25 15:58:22.568 DEBUG Server.Server - Socket Timeout - No clients pending!
+2020.02.25 15:59:57.322 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2020.02.25 15:59:57.761 INFO  Server.Server - Server's Strategy: ServerStrategyGenerateMaze
+2020.02.25 15:59:57.761 INFO  Server.Server - Server is waiting for clients...
+2020.02.25 15:59:57.762 INFO  Server.Server - Client excepted: Socket[addr=/10.100.102.4,port=62928,localport=5400]
+2020.02.25 15:59:57.772 INFO  Server.Server - Handling client with socket: Socket[addr=/10.100.102.4,port=62928,localport=5400]
+2020.02.25 15:59:59.642 DEBUG Server.Server - Socket Timeout - No clients pending!
+2020.02.25 16:01:42.986 DEBUG Server.Server - Socket Timeout - No clients pending!
+2020.02.25 16:01:42.993 INFO  Server.ServerStrategyGenerateMaze - Generating maze with size:15,15
+2020.02.25 16:01:43.004 INFO  Server.Server - Finished handle client: Socket[addr=/10.100.102.4,port=62928,localport=5400]
+2020.02.25 16:01:43.005 INFO  Server.Server - Stopping server..
+2020.05.06 13:23:58.109 INFO  Server.Server - Server starter at ServerSocket[addr=0.0.0.0/0.0.0.0,localport=5400]!
+2020.05.06 13:23:58.115 INFO  Server.Server - Server's Strategy: ServerStrategyGenerateMaze
+2020.05.06 13:23:58.115 INFO  Server.Server - Server is waiting for clients...
+2020.05.06 13:23:58.116 INFO  Server.Server - Client excepted: Socket[addr=/192.168.1.19,port=55811,localport=5400]
+2020.05.06 13:23:58.118 INFO  Server.Server - Handling client with socket: Socket[addr=/192.168.1.19,port=55811,localport=5400]
+2020.05.06 13:23:58.128 INFO  Server.ServerStrategyGenerateMaze - Generating maze with size:15,15
+2020.05.06 13:23:58.883 INFO  Server.Server - Finished handle client: Socket[addr=/192.168.1.19,port=55811,localport=5400]
+2020.05.06 13:23:58.883 INFO  Server.Server - Stopping server..
+2020.05.06 13:23:59.155 DEBUG Server.Server - Socket Timeout - No clients pending!
